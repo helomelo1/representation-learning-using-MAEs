@@ -1,4 +1,4 @@
-# Self-Supervised Learning with Masked Autoencoders (MAE)
+# Self-Supervised Representation Learning with Masked Autoencoders (MAE)
 
 Implemented a **Masked Autoencoder** from scratch in PyTorch based on [He et al., 2021](https://arxiv.org/abs/2111.06377), demonstrating self-supervised visual representation learning on CIFAR-10.
 
